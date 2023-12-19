@@ -1,0 +1,24 @@
+html {
+    font-family: "Open Sans", sans-serif;
+    color: #f2f2f2;
+    background-color: #12081c;
+    font-size: 1.3em;
+}
+
+.content {
+    max-width: 1000px;
+    width: calc(100% - 20px);
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#content * {
+    max-width: 100%;
+}
+
+a {
+  color: #6495ED;
+  text-decoration: none;
+  text-decoration-color: #6495ED;
+}
