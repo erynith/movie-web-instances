@@ -4,13 +4,17 @@
 
 ## Unofficial
 
+✅ = This instance is so trusted I'd give my soul to the owner of it.
+
 ⚡️ = This instance has a chance to be the most recent movie web version (which is good).
 
-⚡️ [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by Isra
+---
 
-⚡️ [scootydooter.vercel.app](https://scootydooter.vercel.app) - by Toon
+✅⚡ [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by [Isra](https://github.com/zisra)
 
-[watch.lonelil.com](https://watch.lonelil.com)
+✅⚡ [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
+
+✅ [watch.lonelil.com](https://watch.lonelil.com) - by [lonelil](https://github.com/lonelil)
 
 [teamberga.xyz](https://teamberga.xyz)
 
