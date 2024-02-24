@@ -20,8 +20,8 @@
 
 ✅ [mv-web.netlify.app](https://mv-web.netlify.app) - by [qtchaos](https://github.com/qtchaos)
 
-[teamberga.xyz](https://teamberga.xyz)
-
 [watchflix.app](https://watchflix.app)
+
+[teamberga.xyz](https://teamberga.xyz)
 
 [movie-web.us](https://movie-web.us)
