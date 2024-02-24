@@ -2,7 +2,7 @@
 
 [movie-web.app](https://movie-web.app)
 
-## Unofficial
+## Mirrors
 
 ✅ = This instance is so trusted I'd give my soul to the owner of it.
 
@@ -25,3 +25,7 @@
 [teamberga.xyz](https://teamberga.xyz)
 
 [movie-web.us](https://movie-web.us)
+
+---
+
+[edit this page](https://github.com/erynith/movie-web-instances/edit/main/README.md) on [github](https://github.com/erynith/movie-web-instances)
