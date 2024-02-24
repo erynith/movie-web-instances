@@ -14,9 +14,9 @@
 
 ✅⚡ [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
 
-✅ [watch.lonelil.com](https://watch.lonelil.com) - by [lonelil](https://github.com/lonelil)
+✅⚡️ [mw.lonelil.com](https://mw.lonelil.com) - by [lonelil](https://github.com/lonelil)
 
-✅ [mw.lonelil.com](https://mw.lonelil.com) - by [lonelil](https://github.com/lonelil)
+✅ [watch.lonelil.com](https://watch.lonelil.com) - by [lonelil](https://github.com/lonelil)
 
 ✅ [mv-web.netlify.app](https://mv-web.netlify.app) - by [qtchaos](https://github.com/qtchaos)
 
