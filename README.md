@@ -20,6 +20,4 @@
 
 [teamberga.xyz](https://teamberga.xyz)
 
-[watchflix.app](https://watchflix.app)
-
 [movie-web.us](https://movie-web.us)
