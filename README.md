@@ -1,3 +1,7 @@
+it's official gang, I've been replaced by an [official instances list](https://movie-web.github.io/docs/instances). 😭
+
+I'm still cooler ngl.
+
 ## Official
 
 [movie-web.app](https://movie-web.app)
