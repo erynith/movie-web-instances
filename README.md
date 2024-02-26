@@ -8,11 +8,13 @@
 
 ⚡️ = This instance has a chance to be the most recent movie web version (which is good).
 
+💾 = This instance has a backend for syncing data.
+
 ---
 
 ✅⚡ [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by [Isra](https://github.com/zisra)
 
-✅⚡ [bmov.vercel.app](https://bmov.vercel.app) - by [ScreechingBagel](https://github.com/TheScreechingBagel)
+✅⚡💾 [bmov.vercel.app](https://bmov.vercel.app) - by [ScreechingBagel](https://github.com/TheScreechingBagel)
 
 ✅⚡️ [mw.lonelil.com](https://mw.lonelil.com) - by [lonelil](https://github.com/lonelil)
 
@@ -20,7 +22,7 @@
 
 ✅ [watch.lonelil.com](https://watch.lonelil.com) - by [lonelil](https://github.com/lonelil)
 
-✅ [mv-web.netlify.app](https://mv-web.netlify.app) - by [qtchaos](https://github.com/qtchaos)
+✅💾 [mv-web.netlify.app](https://mv-web.netlify.app) - by [qtchaos](https://github.com/qtchaos)
 
 [watchflix.app](https://watchflix.app)
 
