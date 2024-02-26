@@ -20,6 +20,8 @@
 
 ✅ [mv-web.netlify.app](https://mv-web.netlify.app) - by [qtchaos](https://github.com/qtchaos)
 
+[bmov.vercel.app](https://bmov.vercel.app) - by [ScreechingBagel](https://github.com/TheScreechingBagel)
+
 [watchflix.app](https://watchflix.app)
 
 [teamberga.xyz](https://teamberga.xyz)
