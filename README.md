@@ -24,6 +24,8 @@
 
 ✅💾 [mv-web.netlify.app](https://mv-web.netlify.app) - by [qtchaos](https://github.com/qtchaos)
 
+✅⚡💾 [stream.thehairy.me](https://stream.thehairy.me) - by [thehairy](https://github.com/thehairy)
+
 [watchflix.app](https://watchflix.app)
 
 [teamberga.xyz](https://teamberga.xyz)
