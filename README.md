@@ -34,7 +34,7 @@ I'm still cooler ngl.
 
 [teamberga.xyz](https://teamberga.xyz)
 
-[cloudflare-ipfs@movie-web](https://cloudflare-ipfs.com/ipfs/QmW7Msvg6riog7oaUC3hk9sGTQUDrsfb8aPdpBHJLKrKhc)
+[cloudflare-ipfs@movie-web](https://k51qzi5uqu5diql6nkzokwdvz9511dp9itillc7xhixptq14tk1oz8agh3wrjd.ipns.cf-ipfs.com)
 
 ---
 
