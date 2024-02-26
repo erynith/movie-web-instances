@@ -18,7 +18,14 @@ html {
 }
 
 a {
-  color: #6495ED;
-  text-decoration: none;
-  text-decoration-color: #6495ED;
+    color: #6495ED;
+    text-decoration: none;
+    text-decoration-color: #6495ED;
+}
+
+img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
 }
