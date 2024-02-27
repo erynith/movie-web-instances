@@ -18,11 +18,13 @@ I'm still cooler ngl.
 
 ✅⚡ [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by [Isra](https://github.com/zisra)
 
+✅⚡️💾 [mw.lonelil.com](https://mw.lonelil.com) - by [lonelil](https://github.com/lonelil)
+
 ✅⚡💾 [bmov.vercel.app](https://bmov.vercel.app) - by [ScreechingBagel](https://github.com/TheScreechingBagel)
 
-✅⚡️ [mw.lonelil.com](https://mw.lonelil.com) - by [lonelil](https://github.com/lonelil)
-
 ✅⚡💾 [stream.thehairy.me](https://stream.thehairy.me) - by [thehairy](https://github.com/thehairy)
+
+✅⚡💾 [sudo-flix.lol](https://sudo-flix.lol) - by [itzCozi](https://gitlab.com/itzCozi)
 
 ✅⚡ [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
 
