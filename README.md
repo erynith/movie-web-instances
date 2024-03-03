@@ -2,9 +2,9 @@ it's official gang, I've been replaced by an [official instances list](https://m
 
 I'm still cooler ngl.
 
-## Official
+#### Official one got taken down 😔
+More Info: https://github.com/movie-web/movie-web/issues/936
 
-[movie-web.app](https://movie-web.app)
 
 ## Mirrors
 
