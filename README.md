@@ -22,7 +22,7 @@ I'm still cooler ngl.
 
 ✅⚡💾🌐 [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by [Isra](https://github.com/zisra)
 
-✅⚡️💾🌐📱 [mw.lonelil.com](https://mw.lonelil.com) - by [lonelil](https://github.com/lonelil)
+✅⚡️💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
 ✅⚡💾🌐 [bmov.vercel.app](https://bmov.vercel.app) - by [ScreechingBagel](https://github.com/TheScreechingBagel)
 
@@ -46,7 +46,7 @@ I'm still cooler ngl.
 
 ## Alternatives
 
-✅ [watch.lonelil.com](https://watch.lonelil.com) - by [lonelil](https://github.com/lonelil)
+✅ [watch.lonelil.ru](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
 ---
 
