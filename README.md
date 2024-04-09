@@ -12,12 +12,13 @@ I'm still cooler ngl.
 
 💾 = This instance has a backend for syncing data.
 
-🌐 = This instance uses the community backend hosted by Lonelil
+🌐 = This instance uses the community backend hosted by [lonelil](https://github.com/lonelil).
 
 📱 = This instance has full Progressive Web App compatibility for mobile.
 
-## Mirrors
 ---
+
+## Mirrors
 
 ✅⚡💾🌐 [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by [Isra](https://github.com/zisra)
 
@@ -42,9 +43,11 @@ I'm still cooler ngl.
 [cloudflare-ipfs@movie-web](https://k51qzi5uqu5diql6nkzokwdvz9511dp9itillc7xhixptq14tk1oz8agh3wrjd.ipns.cf-ipfs.com)
 
 ---
+
 ## Alternatives
----
+
 ✅ [watch.lonelil.com](https://watch.lonelil.com) - by [lonelil](https://github.com/lonelil)
+
 ---
 
 [edit this page](https://github.com/erynith/movie-web-instances/edit/main/README.md) on [github](https://github.com/erynith/movie-web-instances)
