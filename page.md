@@ -40,6 +40,8 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ✅ [watch.lonelil.ru](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
+✅ [kipflix.vercel.app](https://kipflix.vercel.app) - by [Kipoddo](https://github.com/Kipoddo)
+
 ---
 
 ## Archive
