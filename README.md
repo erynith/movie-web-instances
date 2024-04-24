@@ -42,4 +42,18 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ---
 
+## Archive
+
+[@movie-web/movie-web](https://github.com/lonelil/movie-web)
+
+[@movie-web/simple-proxy](https://github.com/TheScreechingBagel/simple-proxy-mw)
+
+[@movie-web/providers](https://github.com/lonelil/providers)
+
+[@movie-web/docs](https://github.com/TheScreechingBagel/docs)
+
+[@movie-web/extension](https://github.com/TheScreechingBagel/extension)
+
+---
+
 [edit this page](https://github.com/erynith/movie-web-instances/edit/main/README.md) on [github](https://github.com/erynith/movie-web-instances)
