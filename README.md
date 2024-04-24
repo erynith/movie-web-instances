@@ -1,10 +1,6 @@
-it's official gang, I've been replaced by an [official instances list](https://movie-web.github.io/docs/instances). 😭
+no more movie-web 😢
 
-I'm still cooler ngl.
-
-## Official
-
-[movie-web.app](https://movie-web.app)
+---
 
 ✅ = This instance is so trusted I'd give my soul to the owner of it.
 
@@ -18,33 +14,27 @@ I'm still cooler ngl.
 
 ---
 
-## Mirrors
+## Instances
 
 ✅⚡💾🌐 [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by [Isra](https://github.com/zisra)
 
 ✅⚡️💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
-✅⚡💾🌐 [bmov.vercel.app](https://bmov.vercel.app) - by [ScreechingBagel](https://github.com/TheScreechingBagel)
-
-✅⚡💾🌐📱 [stream.thehairy.me](https://stream.thehairy.me) - by [thehairy](https://github.com/thehairy)
+✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol) - by [itzCozi](https://gitlab.com/itzCozi)
 
 ✅⚡💾🌐📱 [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
-
-✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol) - by [itzCozi](https://gitlab.com/itzCozi)
 
 ✅💾📱 [watch.qtchaos.de](https://watch.qtchaos.de) - by [qtchaos](https://github.com/qtchaos)
 
 💾🌐📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
-
-[watchflix.app](https://watchflix.app)
-
-[teamberga.xyz](https://teamberga.xyz)
 
 [cloudflare-ipfs@movie-web](https://k51qzi5uqu5diql6nkzokwdvz9511dp9itillc7xhixptq14tk1oz8agh3wrjd.ipns.cf-ipfs.com)
 
 ---
 
 ## Alternatives
+
+more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ✅ [watch.lonelil.ru](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
