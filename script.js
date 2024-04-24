@@ -4,7 +4,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         linkify: true,
         typographer: true
     })
-    fetch("README.md").then(response => response.text()).then(content => {
+    fetch("page.md").then(response => response.text()).then(content => {
         document.getElementById("content").innerHTML = twemoji.parse(md.render(content))
     })
 })
