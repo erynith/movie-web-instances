@@ -1,5 +1,7 @@
 no more movie-web 😢
 
+final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](https://files.catbox.moe/270b6n.png), [3](https://files.catbox.moe/m8kl57.png)
+
 ---
 
 ✅ = This instance is so trusted I'd give my soul to the owner of it.
