@@ -46,7 +46,7 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ## Archive
 
-[movie-web@gitea](https://gitea-production-9f32.up.railway.app/explore/repos)
+[movie-web@gitea](https://gitea-production-9f32.up.railway.app/movie-web)
 
 if the gitea is gone, then use the following:
 
