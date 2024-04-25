@@ -58,7 +58,7 @@ if the gitea is gone, then use the following:
 
 [@movie-web/docs](https://github.com/TheScreechingBagel/docs)
 
-[@movie-web/extension](https://github.com/TheScreechingBagel/extension)
+[@movie-web/extension](https://github.com/TheScreechingBagel/extension) or [chrome-stats](https://chrome-stats.com/d/hoffoikpiofojilgpofjhnkkamfnnhmm) or [firefox-stats](https://firefox-stats.com/d/movie-web-extension)
 
 ---
 
