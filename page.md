@@ -50,17 +50,17 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 if the gitea is gone, then use the following:
 
-[@movie-web/movie-web](https://github.com/lonelil/movie-web)
+[@movie-web/movie-web](https://github.com/ligmajohn/mw)
 
-[@movie-web/simple-proxy](https://github.com/TheScreechingBagel/simple-proxy-mw)
+[@movie-web/simple-proxy](https://github.com/ligmajohn/simple-proxy)
 
-[@movie-web/providers](https://github.com/lonelil/providers)
+[@movie-web/providers](https://github.com/ligmajohn/mw-providers)
 
-[@movie-web/backend](https://github.com/rrosajp/backend)
+[@movie-web/backend](https://github.com/ligmajohn/mw-back)
 
-[@movie-web/docs](https://github.com/TheScreechingBagel/docs)
+[@movie-web/docs](https://github.com/ligmajohn/mw-docs)
 
-[@movie-web/extension](https://github.com/TheScreechingBagel/extension) or [chrome-stats](https://chrome-stats.com/d/hoffoikpiofojilgpofjhnkkamfnnhmm) or [firefox-stats](https://firefox-stats.com/d/movie-web-extension)
+[@movie-web/extension](https://github.com/ligmajohn/ext) or [chrome-stats](https://chrome-stats.com/d/hoffoikpiofojilgpofjhnkkamfnnhmm) or [firefox-stats](https://firefox-stats.com/d/movie-web-extension)
 
 ---
 
