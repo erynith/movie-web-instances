@@ -44,6 +44,10 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ## Archive
 
+[movie-web@gitea](https://gitea-production-9f32.up.railway.app/explore/repos)
+
+if the gitea is gone, then use the following:
+
 [@movie-web/movie-web](https://github.com/lonelil/movie-web)
 
 [@movie-web/simple-proxy](https://github.com/TheScreechingBagel/simple-proxy-mw)
