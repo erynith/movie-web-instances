@@ -28,6 +28,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾📱 [watch.qtchaos.de](https://watch.qtchaos.de) - by [qtchaos](https://github.com/qtchaos)
 
+💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://www.github.com/userkace)
+
 💾 [not-movie-web.app](https://not-movie-web.app)
 
 [cloudflare-ipfs@movie-web](https://k51qzi5uqu5diql6nkzokwdvz9511dp9itillc7xhixptq14tk1oz8agh3wrjd.ipns.cf-ipfs.com)
@@ -60,7 +62,7 @@ if the gitea is gone, then use the following:
 
 [@movie-web/docs](https://github.com/ligmajohn/mw-docs)
 
-[@movie-web/extension](https://github.com/ligmajohn/ext) or [chrome-stats](https://chrome-stats.com/d/hoffoikpiofojilgpofjhnkkamfnnhmm) or [firefox-stats](https://firefox-stats.com/d/movie-web-extension)
+[@movie-web/extension](https://github.com/userkace/film-ext) or [chrome-stats](https://chrome-stats.com/d/hoffoikpiofojilgpofjhnkkamfnnhmm) or [firefox-stats](https://firefox-stats.com/d/movie-web-extension)
 
 ---
 
