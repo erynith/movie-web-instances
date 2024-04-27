@@ -18,17 +18,15 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
-✅⚡💾🌐 [movie-web-me.vercel.app](https://movie-web-me.vercel.app) - by [Isra](https://github.com/zisra)
+✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol) - by [itzCozi](https://gitlab.com/itzCozi)
 
 ✅⚡️💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
-✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol) - by [itzCozi](https://gitlab.com/itzCozi)
-
 ✅⚡💾🌐📱 [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
 
-✅💾📱 [watch.qtchaos.de](https://watch.qtchaos.de) - by [qtchaos](https://github.com/qtchaos)
-
 💾 [not-movie-web.app](https://not-movie-web.app)
+
+💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
 [cloudflare-ipfs@movie-web](https://k51qzi5uqu5diql6nkzokwdvz9511dp9itillc7xhixptq14tk1oz8agh3wrjd.ipns.cf-ipfs.com)
 
