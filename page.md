@@ -26,7 +26,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅⚡💾 [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
 
-⚡️💾 [movie-vault](https://movies.levrx.lol)
+⚡️💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
