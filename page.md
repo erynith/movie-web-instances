@@ -24,9 +24,9 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅⚡💾🌐📱 [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
 
-✅⚡💾 [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
+✅⚡️💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
-⚡️💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
+✅⚡💾 [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
