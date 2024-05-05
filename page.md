@@ -18,7 +18,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
-✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz) - by [itzCozi](https://gitlab.com/itzCozi)
+✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz), [3](https://sudo.wyzie.ru) - by [itzCozi](https://gitlab.com/itzCozi)
 
 ✅⚡️💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
