@@ -1,3 +1,5 @@
 {
+    "origins": ["https://erynith.github.io"],
+    "originsRegex": ["http://localhost:[0-9]+"],
     "defaultCommentOrder": "newest"
 }
