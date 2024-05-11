@@ -20,11 +20,11 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz), [3](https://sudo.wyzie.ru) - by [itzCozi](https://gitlab.com/itzCozi)
 
+✅⚡️💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
+
 ✅⚡️💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
 ✅⚡💾🌐📱 [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
-
-✅⚡️💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
 ✅⚡💾 [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
 
