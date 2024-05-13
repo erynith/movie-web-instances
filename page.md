@@ -30,6 +30,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
+[essential.wtf](https://essential.wtf) - by [Luma](https://github.com/C-luma)
+
 [cloudflare-ipfs@movie-web](https://k51qzi5uqu5diql6nkzokwdvz9511dp9itillc7xhixptq14tk1oz8agh3wrjd.ipns.cf-ipfs.com)
 
 ---
