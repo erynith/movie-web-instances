@@ -6,8 +6,6 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅ = This instance is so trusted I'd give my soul to the owner of it.
 
-⚡️ = This instance has a chance to be the most recent movie web version (which is good).
-
 💾 = This instance has a backend for syncing data.
 
 🌐 = This instance uses the community backend hosted by [lonelil](https://github.com/lonelil).
@@ -18,19 +16,19 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
-✅⚡💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz), [3](https://sudo.wyzie.ru) - by [itzCozi](https://gitlab.com/itzCozi)
+✅💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz), [3](https://sudo.wyzie.ru) - by [itzCozi](https://gitlab.com/itzCozi)
 
-✅⚡️💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
+✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
-✅⚡️💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
+✅💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
-✅⚡💾🌐📱 [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
+✅💾🌐📱 [scootydooter.vercel.app](https://scootydooter.vercel.app) - by [Toon](https://github.com/Toon-arch)
 
-✅⚡💾 [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
+✅ [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
-[cloudflare-ipfs@movie-web](https://k51qzi5uqu5diql6nkzokwdvz9511dp9itillc7xhixptq14tk1oz8agh3wrjd.ipns.cf-ipfs.com)
+💾 [essential.wtf](https://www.essential.wtf) - by [Luma](https://github.com/C-Luma)
 
 ---
 
