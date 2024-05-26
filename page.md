@@ -26,6 +26,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾 [essential.wtf](https://www.essential.wtf) - by [Luma](https://github.com/C-Luma)
 
+💾 [streamwatch](https://streamwatch.online) - by [Steveyout](https://github.com/steveyout)
+
 ---
 
 ## Alternatives
