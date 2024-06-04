@@ -16,6 +16,10 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
+✅💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz), [3](https://sudo.wyzie.ru) - by [itzCozi](https://github.com/sussy-code)
+
+✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
+
 ✅💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
 ✅ [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
@@ -26,7 +30,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾 [essential.wtf](https://www.essential.wtf) - by [Luma](https://github.com/C-Luma)
 
-💾 [streamwatch.online](https://streamwatch.online) - by [Luma](https://github.com/steveyout)
+💾 [streamwatch.online](https://streamwatch.online) - by [steveyout](https://github.com/steveyout)
 
 ---
 
