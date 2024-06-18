@@ -20,7 +20,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
-💾📱 [vidbinge.com](https://www.vidbinge.com) - by [joshholly](https://github.com/joshholly)
+✅💾📱 [vidbinge.com](https://www.vidbinge.com) - by [joshholly](https://github.com/joshholly)
 
 ✅💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
