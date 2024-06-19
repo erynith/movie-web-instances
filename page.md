@@ -14,6 +14,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ---
 
+> **⚠️ Warning:** The community backend is currently down. Please join the [Discord](https://discord.gg/cinemas) for updates.
+
 ## Instances
 
 ✅💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://sudo.wyzie.ru), [3](https://flix.kanded.xyz) - by [itzCozi](https://github.com/sussy-code)
