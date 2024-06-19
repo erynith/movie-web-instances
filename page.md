@@ -14,7 +14,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ---
 
-> **⚠️ Warning:** The community backend is currently down. Please join the [Discord](https://discord.gg/cinemas) for updates.
+> **⚠️ Warning:** The community backend is currently down. Please join the backend's [Discord](https://discord.gg/cinemas) for updates regarding it.
 
 ## Instances
 
