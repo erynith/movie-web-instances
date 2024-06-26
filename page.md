@@ -16,9 +16,9 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 > **⚠️ Warning:** The community backend is currently down. Please join the backend's [Discord](https://discord.gg/cinemas) for updates regarding it.
 
-## Instances
-
 > **💡 Tip:** If you find any instances with ads or redirects, please report them on this page or on [GitHub](https://github.com/erynith/movie-web-instances/issues) so we can remove them. Thank you.
+
+## Instances
 
 ✅💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz) - by [itzCozi](https://github.com/sussy-code)
 
