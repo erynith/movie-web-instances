@@ -37,7 +37,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾 [essential.wtf](https://www.essential.wtf) - by [Luma](https://github.com/C-Luma)
 
-💾 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
+[streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
 
 ---
 
