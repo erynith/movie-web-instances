@@ -3,7 +3,6 @@ no more movie-web 😢
 final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](https://files.catbox.moe/270b6n.png), [3](https://files.catbox.moe/m8kl57.png)
 
 ---
-👑 = This instance is currently the best instance to use.
 
 ✅ = This instance is so trusted I'd give my soul to the owner of it.
 
@@ -20,8 +19,6 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 > **💡 Tip:** If you find any instances with ads or redirects, please report them on this page or on [GitHub](https://github.com/erynith/movie-web-instances/issues) so we can remove them. Thank you.
 
 ## Instances
-
-👑✅💾📱 [sudo-flix.lol](https://sudo-flix.lol), [2](https://flix.kanded.xyz) - by [itzCozi](https://github.com/sussy-code)
 
 ✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
