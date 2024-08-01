@@ -28,7 +28,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [showwave.pw](https://showwave.pw) - by Showwave
 
-💾📱 [envyflix.xyz](https://envyflix.xyz) - by Pas
+💾📱 [envyflix.xyz](https://envyflix.xyz) - by [Pasithea0](https://github.com/Pasithea0)
 
 💾📱 [movies.fmeee.ovh](https://movies.fmeee.ovh) - by FMEEE
 
@@ -38,9 +38,9 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
-💾 [essential.wtf](https://www.essential.wtf) - by [Luma](https://github.com/C-Luma)
+💾 [essential.wtf](https://www.essential.wtf) - by [C-Luma](https://github.com/C-Luma)
 
-[streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
+[streamerflix.xyz](https://streamerflix.xyz) - by [walletcrea](https://github.com/walletcrea)
 
 ---
 
