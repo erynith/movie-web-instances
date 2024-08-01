@@ -20,15 +20,21 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
-✅💾📱 [pseudo-flix.pro](https://pseudo-flix.pro) - by Goodman
+✅💾📱 [pseudo-flix.pro](https://pseudo-flix.pro) - by Weedy
 
 ✅💾📱 [vidbinge.com](https://www.vidbinge.com) - by [joshholly](https://github.com/joshholly)
 
 ✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
-✅💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
+💾📱 [showwave.pw](https://showwave.pw) - by Showwave
+
+💾📱 [envyflix.xyz](https://envyflix.xyz) - by Pas
+
+💾📱 [movies.fmeee.ovh](https://movies.fmeee.ovh) - by FMEEE
 
 ✅ [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
+
+✅💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
