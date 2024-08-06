@@ -22,7 +22,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾📱 [pseudo-flix.pro](https://pseudo-flix.pro) - by Weedy
 
-✅💾📱 [vidbinge.com](https://www.vidbinge.com) - by [joshholly](https://github.com/joshholly)
+✅💾📱 [vidbinge.com](https://www.vidbinge.com) (No Ads as PWA) - by [joshholly](https://github.com/joshholly)
 
 ✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
