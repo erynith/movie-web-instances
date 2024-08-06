@@ -12,6 +12,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 📱 = This instance has full Progressive Web App compatibility for mobile.
 
+🍩 = This instance has ads that can be opt-out of in settings. (why a donut idk)
+
 ---
 
 > **⚠️ Warning:** The community backend is currently down. Please join the backend's [Discord](https://discord.gg/cinemas) for updates regarding it.
@@ -22,7 +24,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾📱 [pseudo-flix.pro](https://pseudo-flix.pro) - by Weedy
 
-✅💾📱 [vidbinge.com](https://www.vidbinge.com) (No Ads as PWA) - by [joshholly](https://github.com/joshholly)
+✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) (No Ads as PWA) - by [joshholly](https://github.com/joshholly)
 
 ✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
