@@ -44,6 +44,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 [streamerflix.xyz](https://streamerflix.xyz) - by [walletcrea](https://github.com/walletcrea)
 
+[sunnymovies](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
+
 ---
 
 ## Alternatives
