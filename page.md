@@ -62,7 +62,7 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 [movie-web@gitea](https://gitea-production-9f32.up.railway.app/movie-web)
 
-[sudo-flix@gitea](https://sudo-repo.up.railway.app/dev)
+[sudo-flix@gitea](https://archive.undi.rest)
 
 if the gitea is gone, then use the following:
 
