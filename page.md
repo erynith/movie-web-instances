@@ -32,19 +32,11 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [envyflix.xyz](https://envyflix.xyz) - by [Pasithea0](https://github.com/Pasithea0)
 
-💾📱 [movies.fmeee.ovh](https://movies.fmeee.ovh) - by FMEEE
-
-✅ [not-movie-web.app](https://not-movie-web.app) - by [Nemoswrold](https://github.com/Nemoswrold)
-
-✅💾🌐📱 [mw.lonelil.ru](https://mw.lonelil.ru) - by [lonelil](https://github.com/lonelil)
-
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
-
-💾 [essential.wtf](https://www.essential.wtf) - by [C-Luma](https://github.com/C-Luma)
 
 [streamerflix.xyz](https://streamerflix.xyz) - by [walletcrea](https://github.com/walletcrea)
 
-[sunnymovies](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
+[sunnymovies.site](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
 
 ---
 
