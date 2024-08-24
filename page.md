@@ -44,9 +44,11 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
-✅ [watch.lonelil.ru](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
+✅ [watch.lonelil](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
-✅ [kipflix.vercel.app](https://kipflix.vercel.app) - by [Kipoddo](https://github.com/Kipoddo)
+✅ [kipflix](https://kipflix.xyz) - by [Kipoddo](https://github.com/Kipoddo)
+
+✅ [heartive](https://heartive.pages.dev)
 
 ---
 
