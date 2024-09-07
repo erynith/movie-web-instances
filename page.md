@@ -8,17 +8,13 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾 = This instance has a backend for syncing data.
 
-🌐 = This instance uses the community backend hosted by [lonelil](https://github.com/lonelil).
-
 📱 = This instance has full Progressive Web App compatibility for mobile.
 
 🍩 = This instance has ads that can be opt-out of in settings. (why a donut idk)
 
 ---
 
-> **⚠️ Warning:** The community backend is currently down. Please join the backend's [Discord](https://discord.gg/cinemas) for updates regarding it.
-
-> **💡 Tip:** If you find any instances with ads or redirects, please report them on this page or on [GitHub](https://github.com/erynith/movie-web-instances/issues) so we can remove them. Thank you.
+> **📝 Note:** If you find any instances with ads or redirects, please report them on this page or on [GitHub](https://github.com/erynith/movie-web-instances/issues) so we can remove them. Thank you.
 
 ## Instances
 
