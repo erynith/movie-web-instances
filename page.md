@@ -32,7 +32,11 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [envyflix.xyz](https://envyflix.xyz) - by [Pasithea0](https://github.com/Pasithea0)
 
-💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
+💾📱 [cinewhirl.com](https://cinewhirl.com) - by fanlimdk
+
+💾📱 [movies.didiinthe.cloud](https://movies.didiinthe.cloud) - by Didi
+
+📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
 [streamerflix.xyz](https://streamerflix.xyz) - by [walletcrea](https://github.com/walletcrea)
 
@@ -47,6 +51,8 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 ✅ [watch.lonelil](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
 
 ✅ [kipflix](https://kipflix.xyz) - by [Kipoddo](https://github.com/Kipoddo)
+
+✅ [kipwatch](https://kipwatch.xyz) - by [Kipoddo](https://github.com/Kipoddo)
 
 ✅ [heartive](https://heartive.pages.dev)
 
