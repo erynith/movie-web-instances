@@ -24,7 +24,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
-💾📱 [envyflix.xyz](https://envyflix.xyz) - by [Pasithea0](https://github.com/Pasithea0)
+💾📱 [p-stream](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
 
 💾📱 [cinewhirl.com](https://cinewhirl.com) - by fanlimdk
 
