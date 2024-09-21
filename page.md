@@ -22,9 +22,11 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) - by TrainReq
 
+✅💾📱 [movie-web.me](https://www.movie-web.me) - by WaffleHacker
+
 ✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
-💾📱 [p-stream](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
+✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
 
 💾📱 [cinewhirl.com](https://cinewhirl.com) - by fanlimdk
 
