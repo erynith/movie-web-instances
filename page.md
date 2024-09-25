@@ -14,7 +14,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ---
 
-> **📝 Note:** If you find any instances with ads or redirects, please report them on this page or on [GitHub](https://github.com/erynith/movie-web-instances/issues) so we can remove them. Thank you.
+> **📝 Note:** If you find any instances with ads or redirects, please report them on this page or on [GitHub](https://github.com/erynith/movie-web-instances/issues) so we can remove them. Thank you. (ironic since this site has ads)
 
 ## Instances
 
