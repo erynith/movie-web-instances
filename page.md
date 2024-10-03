@@ -48,6 +48,8 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ✅ [kipwatch](https://kipwatch.xyz) - by [Kipoddo](https://github.com/Kipoddo)
 
+✅ [freecinema](https://freecinema.live)
+
 ✅ [heartive](https://heartive.pages.dev)
 
 ---
