@@ -28,8 +28,6 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
 
-💾📱 [cinewhirl.com](https://cinewhirl.com) - by fanlimdk
-
 💾📱 [movies.didiinthe.cloud](https://movies.didiinthe.cloud) - by Didi
 
 [streamerflix.xyz](https://streamerflix.xyz) - by [walletcrea](https://github.com/walletcrea)
