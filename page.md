@@ -18,6 +18,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
+✅️💾📱 [braflix.gd](https://www.braflix.gd/) - by someusername
+
 ✅💾📱 [sudo-flix.rip](https://sudo-flix.rip) - by ShaggysBalls
 
 ✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) - by TrainReq
