@@ -18,15 +18,15 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
-✅💾📱 [sudo-flix.rip](https://sudo-flix.rip) - by ShaggysBalls
-
 ✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) - by TrainReq
+
+✅💾📱 [sudo-flix.rip](https://sudo-flix.rip) - by ShaggysBalls
 
 ✅💾📱 [movie-web.me](https://www.movie-web.me) - by WaffleHacker
 
-✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
-
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
+
+✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
 
 💾📱 [movies.didiinthe.cloud](https://movies.didiinthe.cloud) - by Didi
 
