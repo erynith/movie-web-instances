@@ -20,19 +20,9 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) - by TrainReq
 
-✅💾📱 [sudo-flix.rip](https://sudo-flix.rip) - by ShaggysBalls
-
-✅💾📱 [movie-web.me](https://www.movie-web.me) - by WaffleHacker
-
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
 
-✅💾 [movies.levrx.lol](https://movies.levrx.lol) - by [levrx](https://github.com/levrx)
-
-💾📱 [movies.didiinthe.cloud](https://movies.didiinthe.cloud) - by Didi
-
 [sunnymovies.site](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
-
-📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
 ---
 
