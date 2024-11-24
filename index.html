@@ -62,29 +62,4 @@
             async>
         </script>
     </body>
-
-    <!-- now i know this is cringe but hear me out guys -->
-    <!-- simply use ublock origin -->
-    <script async data-cfasync="false">
-        (function() {
-            const url = new URL(window.location.href)
-            const clickID = url.searchParams.get("click_id")
-            const sourceID = url.searchParams.get("source_id")
-
-            const s = document.createElement("script")
-            s.dataset.cfasync = "false"
-            s.src = "https://push-sdk.com/f/sdk.js?z=1256742"
-            s.onload = (opts) => {
-                opts.zoneID = 1256742
-                opts.extClickID = clickID
-                opts.subID1 = sourceID
-                opts.actions.onPermissionGranted = () => {}
-                opts.actions.onPermissionDenied = () => {}
-                opts.actions.onAlreadySubscribed = () => {}
-                opts.actions.onError = () => {}
-            }
-            document.head.appendChild(s)
-        })()
-    </script>
-    <script async type="text/javascript" src="https://s0-greate.net/p/1260088"></script>
 </html>
