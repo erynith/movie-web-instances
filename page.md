@@ -25,6 +25,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
 [sunnymovies.site](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
+💾 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
 
 ---
 
