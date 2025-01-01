@@ -26,6 +26,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 ✅️💾📱 [streamwatch](https://streamwatch.online/) - by [Steveyout](https://github.com/steveyout)
 
 [sunnymovies.site](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
+💾 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
 
 ---
 
