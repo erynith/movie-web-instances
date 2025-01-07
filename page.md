@@ -20,11 +20,13 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) - by TrainReq
 
+✅️💾📱 [sudo-flix.lol](https://sudo-flix.lol) - by Weedy
+
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
-💾📱 [streamwatch.online](https://streamwatch.online/) - by [Steveyout](https://github.com/steveyout)
+💾📱 [streamwatch.online](https://streamwatch.online) - by [Steveyout](https://github.com/steveyout)
 
 [sunnymovies.site](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
 
@@ -36,11 +38,9 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
+✅ [brocoflix](https://brocoflix.com) - by [Kipoddo](https://github.com/Kipoddo)
+
 ✅ [watch.lonelil](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
-
-✅ [kipflix](https://kipflix.xyz) - by [Kipoddo](https://github.com/Kipoddo)
-
-✅ [kipwatch](https://kipwatch.xyz) - by [Kipoddo](https://github.com/Kipoddo)
 
 ✅ [freecinema](https://freecinema.live)
 
@@ -49,12 +49,6 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 ---
 
 ## Archive
-
-[movie-web@gitea](https://gitea-production-9f32.up.railway.app/movie-web)
-
-[sudo-flix@gitea](https://archive.undi.rest/dev)
-
-if the gitea is gone, then use the following:
 
 [@movie-web/movie-web](https://github.com/ligmajohn/mw)
 
