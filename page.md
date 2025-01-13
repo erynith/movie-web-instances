@@ -36,6 +36,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
+✅ [ableflix](https://ableflix.xyz), [2](https://ableflix.cc)
+
 ✅ [brocoflix](https://brocoflix.com) - by [Kipoddo](https://github.com/Kipoddo)
 
 ✅ [watch.lonelil](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
