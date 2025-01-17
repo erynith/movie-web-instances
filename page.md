@@ -18,6 +18,8 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 ## Instances
 
+✅💾📱🍩 [vlop.fun](https://vlop.fun) - by nexiloop
+
 ✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) - by TrainReq
 
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
