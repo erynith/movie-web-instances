@@ -10,15 +10,11 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 📱 = This instance has full Progressive Web App compatibility for mobile.
 
-🍩 = This instance has ads that can be opt-out of in settings. (why a donut idk)
-
 ---
 
 > **📝 Note:** If you find any instances with ads or redirects, please report them on this page or on [GitHub](https://github.com/erynith/movie-web-instances/issues) so we can remove them. Thank you. (ironic since this site has ads)
 
 ## Instances
-
-✅💾📱🍩 [vidbinge.com](https://www.vidbinge.com) - by TrainReq
 
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
 
