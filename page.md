@@ -42,7 +42,9 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ✅ [brocoflix](https://brocoflix.com) - by [Kipoddo](https://github.com/Kipoddo)
 
-✅ [watch.lonelil](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
+✅ [Erynith](https://erynith-git-io.github.io/Erynith/)
+
+✅ [watch.lonelil](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil) (doesn't work) 
 
 ✅ [freecinema](https://freecinema.live)
 
