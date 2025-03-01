@@ -24,7 +24,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [movies.levrx.lol](https://movies.levrx.lol)
 
-[movies.samj.app](https://movies.samj.app)
+💾📱 [movies.samj.app](https://movies.samj.app)
 
 ---
 
