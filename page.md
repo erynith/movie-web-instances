@@ -22,15 +22,9 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [vidplay.fmovies0.cc](https://vidplay.fmovies0.cc)
 
-💾📱 [sudo-flix.fmovies0.cc](https://sudo-flix.fmovies0.cc)
+💾📱 [movies.levrx.lol](https://movies.levrx.lol)
 
-💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
-
-[sunnymovies.site](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
-
-💾📱 [streamwatch.online](https://streamwatch.online) - by [Steveyout](https://github.com/steveyout)
-
-💾 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
+[movies.samj.app](https://movies.samj.app)
 
 ---
 
