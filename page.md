@@ -1,6 +1,6 @@
-no more movie-web 😢
+the original movie-web is gone 😢 but the instances below still work
 
-final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](https://files.catbox.moe/270b6n.png), [3](https://files.catbox.moe/m8kl57.png)
+original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](https://files.catbox.moe/270b6n.png), [3](https://files.catbox.moe/m8kl57.png)
 
 ---
 
