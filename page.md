@@ -16,6 +16,8 @@ original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png
 
 ## Instances
 
+✅️💾📱 [vidbinge.com](https://vidbinge.com) - by [TrainReq](https://github.com/joshholly)
+
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0)
 
 ✅️💾📱 [pseudo-flix.pro](https://pseudo-flix.pro) - by Weedy
