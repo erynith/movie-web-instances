@@ -20,6 +20,8 @@ original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png
 
 ✅️💾📱 [pseudo-flix.pro](https://pseudo-flix.pro) - by Weedy
 
+💾 [sudo-flix.nl](https://sudo-flix.nl) - By chargonium
+
 💾📱 [vidplay.fmovies0.cc](https://vidplay.fmovies0.cc)
 
 💾📱 [movies.levrx.lol](https://movies.levrx.lol)
