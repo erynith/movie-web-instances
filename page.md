@@ -24,7 +24,7 @@ original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png
 
 💾📱 [movies.levrx.de](https://movies.levrx.de) - by lew
 
-💾 [sudo-flix.nl](https://sudo-flix.nl) - by Chargonium
+💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://chargonium.com)
 
 💾📱 [movies.samj.app](https://movies.samj.app)
 
