@@ -38,10 +38,6 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ✅ [brocoflix](https://brocoflix.com) - by [Kipoddo](https://github.com/Kipoddo)
 
-✅ [watch.lonelil](https://watch.lonelil.ru) - by [lonelil](https://github.com/lonelil)
-
-✅ [freecinema](https://freecinema.live)
-
 ✅ [heartive](https://heartive.pages.dev)
 
 ---
