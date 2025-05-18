@@ -42,7 +42,7 @@ more can be found on [FMHY](https://fmhy.net/videopiracyguide)
 
 ## Self Hosting
 
-[P-Stream Documentation](https://docs.pstream.org), [2](https://github.com/p-stream/p-stream#quick-deploy)
+[P-Stream Documentation](https://docs.pstream.org/self-hosting/hosting-intro), [2](https://github.com/p-stream/p-stream#quick-deploy)
 
 ## Repository Archive
 
