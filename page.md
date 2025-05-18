@@ -18,11 +18,9 @@ original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png
 
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0) - [Note](https://rentry.org/nipiw8i5)
 
-💾📱 [movies.levrx.de](https://movies.levrx.de) - by lew
-
-💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium)
-
 💾📱 [movies.samj.app](https://movies.samj.app)
+
+[justchilltv.netlify.app](https://justchilltv.netlify.app) - by [gcgamingcraft](https://github.com/gcgamingcraft)
 
 ---
 
@@ -40,7 +38,11 @@ more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
 
 ---
 
-## Archive
+## Self Hosting
+
+[P-Stream Documentation](https://docs.pstream.org), [2](https://github.com/p-stream/p-stream#quick-deploy)
+
+## Repository Archive
 
 [@movie-web/movie-web](https://github.com/ligmajohn/mw)
 
