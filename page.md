@@ -20,7 +20,7 @@ original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png
 
 💾📱 [movies.samj.app](https://movies.samj.app)
 
-[justchilltv.netlify.app](https://justchilltv.netlify.app) - by [gcgamingcraft](https://github.com/gcgamingcraft)
+💾📱 [justchilltv.netlify.app](https://justchilltv.netlify.app) - by [gcgamingcraft](https://github.com/gcgamingcraft)
 
 💾📱 [streamwatch.online](https://streamwatch.online) - by [Steveyout](https://github.com/Steveyout)
 
