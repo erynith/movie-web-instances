@@ -28,7 +28,7 @@ original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png
 
 ## Alternatives
 
-more can be found on [FMHY](https://fmhy.pages.dev/videopiracyguide)
+more can be found on [FMHY](https://fmhy.net/videopiracyguide)
 
 ✅ [ableflix](https://ableflix.xyz), [2](https://ableflix.cc)
 
