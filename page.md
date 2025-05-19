@@ -1,9 +1,3 @@
-the original movie-web is gone 😢 but the instances below still work
-
-original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](https://files.catbox.moe/270b6n.png), [3](https://files.catbox.moe/m8kl57.png)
-
----
-
 ✅ = This instance is so trusted I'd give my soul to the owner of it.
 
 💾 = This instance has a backend for syncing data.
@@ -20,7 +14,7 @@ original final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png
 
 💾📱 [movies.samj.app](https://movies.samj.app)
 
-💾📱 [justchilltv.netlify.app](https://justchilltv.netlify.app) - by [gcgamingcraft](https://github.com/gcgamingcraft)
+💾📱 [justchill.app](https://justchill.app) - by [gcgamingcraft](https://github.com/gcgamingcraft)
 
 💾📱 [streamwatch.online](https://streamwatch.online) - by [Steveyout](https://github.com/Steveyout)
 
