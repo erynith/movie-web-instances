@@ -12,8 +12,6 @@
 
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0) - [Note](https://rentry.org/nipiw8i5)
 
-💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium)
-
 💾📱 [movies.samj.app](https://movies.samj.app)
 
 💾📱 [justchill.app](https://justchill.app) - by [gcgamingcraft](https://github.com/gcgamingcraft)
@@ -21,6 +19,8 @@
 💾📱 [streamwatch.online](https://streamwatch.online) - by [Steveyout](https://github.com/Steveyout)
 
 💾📱 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
+
+💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium)
 
 ---
 
