@@ -22,6 +22,8 @@
 
 💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium)
 
+💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
+
 ---
 
 ## Alternatives
