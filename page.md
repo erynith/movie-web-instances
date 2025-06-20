@@ -12,8 +12,6 @@
 
 ✅️💾📱 [pstream.org](https://pstream.org) - by [Pasithea0](https://github.com/Pasithea0) - [Note](https://rentry.org/nipiw8i5)
 
-✅️ 💾📱 [vlop.fun](https://vlop.fun) - by [mohameodo](https://github.com/mohameodo)
-
 💾📱 [movies.samj.app](https://movies.samj.app)
 
 💾📱 [justchill.app](https://justchill.app) - by [gcgamingcraft](https://github.com/gcgamingcraft)
@@ -22,7 +20,9 @@
 
 💾📱 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
 
-💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium) - [Note](https://rentry.org/7kvvorez)
+💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium) - [Note by dev](https://rentry.org/7kvvorez)
+
+💾📱 [vlop.fun](https://vlop.fun) - by [mohameodo](https://github.com/mohameodo)
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
