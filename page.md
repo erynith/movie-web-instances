@@ -34,8 +34,6 @@ more can be found on [FMHY](https://fmhy.net/videopiracyguide)
 
 ✅ [heartive](https://heartive.pages.dev)
 
-[way2movies](https://way2movies.live)
-
 ---
 
 ## Self Hosting
