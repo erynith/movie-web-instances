@@ -20,7 +20,7 @@
 
 💾📱 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
 
-💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium)
+💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium) - [Note](https://rentry.org/7kvvorez)
 
 ---
 
