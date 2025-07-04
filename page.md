@@ -22,8 +22,6 @@
 
 💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium) - [Note by dev](https://rentry.org/7kvvorez)
 
-💾📱 [vlop.fun](https://vlop.fun) - by [mohameodo](https://github.com/mohameodo)
-
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
 ---
