@@ -18,8 +18,6 @@
 
 💾📱 [streamerflix.xyz](https://streamerflix.xyz) - by [Crea](https://github.com/walletcrea)
 
-💾📱 [sudo-flix.nl](https://sudo-flix.nl) - by [Chargonium](https://github.com/Chargonium) - [Note by dev](https://rentry.org/7kvvorez)
-
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
 ---
